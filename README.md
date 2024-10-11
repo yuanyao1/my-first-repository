@@ -1,8 +1,3 @@
 # README #
-line 1
-line 2
-line 3
-line 4
-line AAAAAA
-line 6
-Bread
+Who will win the 2024 election?
+It won't be Biden.
